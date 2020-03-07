@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="42.891285">
+<testcase classname="Offline Website Login" name="Offline Website Login Test" time="42.891285">
+<system-out><![CDATA[Given User Is Already on Login Page.........................................passed
+When Tital Of Login Page....................................................passed
+Then User Enters UserName and User Enter Password...........................passed
+And click the log in button.................................................passed
+Then User Is On Home Page...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
